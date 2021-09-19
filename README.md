@@ -17,7 +17,7 @@ Eu curto aprender sobre assuntos que estão em meus hobbys.
 
 ### Experiência com:
 <a href="https://github.com/cyber969696" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="Github" width="40" heigth="40"/>
-<a href="https://about.gitlab.com" target="_blank"/> <img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fpngimg.com%2Fuploads%2Fmysql%2Fsmall%2Fmysql_PNG36.png&imgrefurl=http%3A%2F%2Fpngimg.com%2Fimages%2Flogos%2Fmysql&tbnid=UCt8SiNpJQcrDM&vet=12ahUKEwiN1oGk-onzAhULgpUCHSnKBZoQMygeegUIARDtAQ..i&docid=CihX5m79C1Y5ZM&w=200&h=200&q=logo%20mYSQL&hl=pt-BR&client=firefox-b-d&ved=2ahUKEwiN1oGk-onzAhULgpUCHSnKBZoQMygeegUIARDtAQ" alt="MySQL" width="40" height="40"/>
+<a href="https://about.gitlab.com" target="_blank"/> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fmiddle%2F571-5710626_mysql-logo-mysql-logo-png-clipart.png&imgrefurl=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FibwbwxR_mysql-logo-mysql-logo-png-clipart%2F&tbnid=y-gw_RUJIvHN7M&vet=12ahUKEwiN1oGk-onzAhULgpUCHSnKBZoQMygregUIARCHAg..i&docid=KkwM8uxZS02AqM&w=880&h=909&q=logo%20mYSQL&hl=pt-BR&client=firefox-b-d&ved=2ahUKEwiN1oGk-onzAhULgpUCHSnKBZoQMygregUIARCHAg" alt="MySQL" width="40" height="40"/>
 <a href="https://www.python.org/" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="40" heigth="40"/>
 <a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://icon-library.com/images/selenium-icon/selenium-icon-12.jpg" alt="Selenium" width="40" heigth="40"/>
 
