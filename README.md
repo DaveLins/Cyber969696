@@ -12,11 +12,12 @@ Bem-vindos (a) onde a codificação não tem limites.
 - Meu nome: David Oliveira Lins
 - Minha idade: 17 Anos
 - Meu hobby: Programacão, Design (UX-UI), Automacões, Finanças, Astronomia, Leitura, Filmes de tecnologia e séries.
+Eu curto aprender sobre assuntos que estão em meus hobbys.
 <hr>
 
 ### Experiência com:
 <a href="https://github.com/cyber969696" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="Github" width="40" heigth="40"/>
-<a href="https://about.gitlab.com" target="_blank"/> <img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" alt="Gitlab" width="40" height="40"/>
+<a href="https://about.gitlab.com" target="_blank"/> <img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fpngimg.com%2Fuploads%2Fmysql%2Fsmall%2Fmysql_PNG36.png&imgrefurl=http%3A%2F%2Fpngimg.com%2Fimages%2Flogos%2Fmysql&tbnid=UCt8SiNpJQcrDM&vet=12ahUKEwiN1oGk-onzAhULgpUCHSnKBZoQMygeegUIARDtAQ..i&docid=CihX5m79C1Y5ZM&w=200&h=200&q=logo%20mYSQL&hl=pt-BR&client=firefox-b-d&ved=2ahUKEwiN1oGk-onzAhULgpUCHSnKBZoQMygeegUIARDtAQ" alt="MySQL" width="40" height="40"/>
 <a href="https://www.python.org/" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="40" heigth="40"/>
 <a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://icon-library.com/images/selenium-icon/selenium-icon-12.jpg" alt="Selenium" width="40" heigth="40"/>
 
