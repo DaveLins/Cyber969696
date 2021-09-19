@@ -26,8 +26,8 @@ Bem-vindos (a) onde a codificação não tem limites.
 <hr>
 
 ### Descrição do meu objetivo:
-- Atualmente estou buscando oportunidades! Busco sempre estar estudando, desenvolvevendo programas (treinando)
-- Meu foco é poder ajudar as pessoas desenvolvendo programas e aplicativos que elas precisem e também a automação de programas!
+- Atualmente estou buscando oportunidades! Busco sempre estar estudando, desenvolvevendo programas
+- Meu foco é poder ajudar as pessoas desenvolvendo programas e aplicativos que elas precisem e também a automação de programas
 - Gosto de estar sempre aprendendo novas coisas
 - Costumo passar o dia todo criando banco de dados
 - Gosto de desenvolver aplicativos nativos em Java
