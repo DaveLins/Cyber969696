@@ -20,22 +20,30 @@ Bem-vindos (a) onde a codificação não tem limites.
 <a href="https://www.oficinadanet.com.br/artigo/2227/mysql_-_o_que_e" target="_blank"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MySQL" width="40" height="40"/>
 <a href="https://www.python.org/" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="40" heigth="40"/>
 <a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://icon-library.com/images/selenium-icon/selenium-icon-12.jpg" alt="Selenium" width="40" heigth="40"/>
-<a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://logospng.org/download/java/logo-java-2048.png" alt="Java" width="40" heigth="40"/>
-<a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://image.flaticon.com/icons/png/512/919/919827.png" alt="HTML" width="40" heigth="40"/>
+<a href="https://www.java.com/pt-BR/download/help/whatis_java.html" target="_blank"/> <img src="https://logospng.org/download/java/logo-java-2048.png" alt="Java" width="40" heigth="40"/>
+<a href="https://www.homehost.com.br/blog/tutoriais/o-que-e-html/" target="_blank"/> <img src="https://image.flaticon.com/icons/png/512/919/919827.png" alt="HTML" width="40" heigth="40"/>
 
 <hr>
 
 ### Descrição do meu objetivo:
 - Atualmente estou buscando oportunidades! Busco sempre estar estudando, desenvolvevendo programas (treinando)
-- Meu foco é poder ajudar as pessoas desenvolvendo programas que elas precisem e também a automação de programas!
-- Gosto de estar sempre aprendendo novas coisas!
+- Meu foco é poder ajudar as pessoas desenvolvendo programas e aplicativos que elas precisem e também a automação de programas!
+- Gosto de estar sempre aprendendo novas coisas
+- Costumo passar o dia todo criando banco de dados
+- Gosto de desenvolver aplicativos nativos em Java
+- Curto automatizar minhas tarefas com o Python
+- Sou fascinado em Design (UX-UI) considero que é minha maior paixão
 <hr>
 
-### Tempo de estudo ⏲️:
-- Estudo Python há 1 ano (dei uma pausa de 4 meses por motivos pessoais mas já voltei)
+### Tempo de área:
+- Estou na área de Python há 1 ano e 5 meses
+- Estou na área de Design há 3 anos
+- Estou na área de MySQL há 1 ano
+- Estou na área de Java há 1 ano e 2 meses
+- Estou na área de HTML há 5 meses
 <hr>
 
-### Cursos que fiz em Python 📚:
+### Cursos que fiz em Python:
 ### Cursos que fiz sobre Python 📚:
 
 - [x] Curso de Python do Gustavo Guanabara no YouTube (foi o meu início)
