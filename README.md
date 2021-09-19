@@ -4,19 +4,18 @@ Bem-vindos (a) onde a codificação não tem limites.
    </p><hr>
 </h1>
 
-![stats about my repo lucas-Dk](https://github-readme-stats.vercel.app/api?username=cyber969696&show_icons=true&theme=radical)
+![stats about my repo Cyber969696](https://github-readme-stats.vercel.app/api?username=cyber969696&show_icons=true&theme=radical)
 
 ![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
 
-# Um pouco sobre mim:
-- Meu nome: Lucas Silva
-- Minha idade: 21 Anos
-- Apaixonado por: Tecnologia, resoluções de problemas usando a programação e automação de programas. filmes e séries
-- Linguagens: Eu sou apaixonado pela linguagem Python
+# Sobre mim:
+- Meu nome: David Oliveira Lins
+- Minha idade: 17 Anos
+- Meu hobby: Programacão, Design (UX-UI), Automacões, Finanças, Astronomia, Leitura, Filmes de tecnologia e séries.
 <hr>
 
 ### Experiência com:
-<a href="https://github.com/lucas-Dk" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="Github" width="40" heigth="40"/>
+<a href="https://github.com/cyber969696" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="Github" width="40" heigth="40"/>
 <a href="https://about.gitlab.com" target="_blank"/> <img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" alt="Gitlab" width="40" height="40"/>
 <a href="https://www.python.org/" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="40" heigth="40"/>
 <a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://icon-library.com/images/selenium-icon/selenium-icon-12.jpg" alt="Selenium" width="40" heigth="40"/>
