@@ -1,4 +1,3 @@
-@@ -1,62 +1,62 @@
 <h1 align="center"
     <p>
 Bem-vindos (a) onde a codificação não tem limites.
