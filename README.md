@@ -1,11 +1,11 @@
 @@ -1,62 +1,62 @@
 <h1 align="center"
     <p>
-Olá a todos! Sejam bem vindos ao meu perfil! 👋
+Bem-vindos (a) onde a codificação não tem limites.
    </p><hr>
 </h1>
 
-![stats about my repo lucas-Dk](https://github-readme-stats.vercel.app/api?username=lucas-Dk&show_icons=true&theme=radical)
+![stats about my repo lucas-Dk](https://github-readme-stats.vercel.app/api?username=cyber969696&show_icons=true&theme=radical)
 
 ![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
 
