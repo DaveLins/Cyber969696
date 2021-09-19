@@ -62,7 +62,18 @@ Bem-vindos (a) onde a codificação não tem limites.
 
 ### Cursos de SQL:
 
+- [x] Curso de MySQL básico
+- [x] Curso de SQL médio
 
+### Cursos de HTML:
+
+- [x] Curso de HTML básico
+- [x] Curso de HTML 5 com CSS3
+
+### Cursos de UX Design:
+
+- [x] Curso de UX Design modelos e ferramentas
+- [x] Curso de AdobeXD usabilidade
 
 <hr>
 <h3 align="center">
