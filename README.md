@@ -20,7 +20,8 @@ Bem-vindos (a) onde a codificação não tem limites.
 <a href="https://www.oficinadanet.com.br/artigo/2227/mysql_-_o_que_e" target="_blank"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MySQL" width="40" height="40"/>
 <a href="https://www.python.org/" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="40" heigth="40"/>
 <a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://icon-library.com/images/selenium-icon/selenium-icon-12.jpg" alt="Selenium" width="40" heigth="40"/>
-<a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://logospng.org/download/java/logo-java-2048.png" alt="Selenium" width="40" heigth="40"/>
+<a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://logospng.org/download/java/logo-java-2048.png" alt="Java" width="40" heigth="40"/>
+<a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://logospng.org/download/java/logo-java-2048.png" alt="HTML" width="40" heigth="40"/>
 
 <hr>
 
