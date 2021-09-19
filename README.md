@@ -17,7 +17,7 @@ Eu curto aprender sobre assuntos que estão em meus hobbys.
 
 ### Experiência com:
 <a href="https://github.com/cyber969696" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="Github" width="40" heigth="40"/>
-<a href="https://about.gitlab.com" target="_blank"/> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fmiddle%2F571-5710626_mysql-logo-mysql-logo-png-clipart.png&imgrefurl=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FibwbwxR_mysql-logo-mysql-logo-png-clipart%2F&tbnid=y-gw_RUJIvHN7M&vet=12ahUKEwiN1oGk-onzAhULgpUCHSnKBZoQMygregUIARCHAg..i&docid=KkwM8uxZS02AqM&w=880&h=909&q=logo%20mYSQL&hl=pt-BR&client=firefox-b-d&ved=2ahUKEwiN1oGk-onzAhULgpUCHSnKBZoQMygregUIARCHAg" alt="MySQL" width="40" height="40"/>
+<a href="https://www.oficinadanet.com.br/artigo/2227/mysql_-_o_que_e" target="_blank"/> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ffindicons.com%2Ffiles%2Ficons%2F977%2Frrze%2F720%2Fdatabase_mysql.png&imgrefurl=https%3A%2F%2Ffindicons.com%2Ficon%2F84746%2Fdatabase_mysql&tbnid=wtbk6NpDuyZGWM&vet=12ahUKEwic5Pip-4nzAhWTAtQKHXOHC-oQMygNegUIARDFAQ..i&docid=IsTQMk7cNkmLYM&w=720&h=720&q=MySQL%20icon%20png&client=firefox-b-d&ved=2ahUKEwic5Pip-4nzAhWTAtQKHXOHC-oQMygNegUIARDFAQ" alt="MySQL" width="40" height="40"/>
 <a href="https://www.python.org/" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="40" heigth="40"/>
 <a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://icon-library.com/images/selenium-icon/selenium-icon-12.jpg" alt="Selenium" width="40" heigth="40"/>
 
