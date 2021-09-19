@@ -20,7 +20,7 @@ Bem-vindos (a) onde a codificação não tem limites.
 <a href="https://www.oficinadanet.com.br/artigo/2227/mysql_-_o_que_e" target="_blank"/> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ffindicons.com%2Ffiles%2Ficons%2F977%2Frrze%2F720%2Fdatabase_mysql.png&imgrefurl=https%3A%2F%2Ffindicons.com%2Ficon%2F84746%2Fdatabase_mysql&tbnid=wtbk6NpDuyZGWM&vet=12ahUKEwic5Pip-4nzAhWTAtQKHXOHC-oQMygNegUIARDFAQ..i&docid=IsTQMk7cNkmLYM&w=720&h=720&q=MySQL%20icon%20png&client=firefox-b-d&ved=2ahUKEwic5Pip-4nzAhWTAtQKHXOHC-oQMygNegUIARDFAQ" alt="MySQL" width="40" height="40"/>
 <a href="https://www.python.org/" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="40" heigth="40"/>
 <a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://icon-library.com/images/selenium-icon/selenium-icon-12.jpg" alt="Selenium" width="40" heigth="40"/>
-<a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://icon-library.com/images/icon-java/icon-java-29.jpg" alt="Selenium" width="40" heigth="40"/>
+<a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://i7.pngguru.com/preview/785/145/98/java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon-thumbnail.jpg" alt="Selenium" width="40" heigth="40"/>
 
 <hr>
 
