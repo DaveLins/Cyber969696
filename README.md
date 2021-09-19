@@ -86,6 +86,7 @@ Bem-vindos (a) onde a codificação não tem limites.
 <a href="https://www.instagram.com/hate_me_blood/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="Instagram" width="40" heigth="40"/>
 <a href="https://mail.google.com/mail/u/0/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail" width="40" heigth="40"/>
 <a href="https://www.linkedin.com/in/david-oliveira-lins-06ab7a1a7/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" width="40" heigth="40"/>
+<a href="https://dribbble.com/dededav8" target="_blank"> <img src="https://w7.pngwing.com/pngs/826/884/png-transparent-dribbble-logo-graphic-design-design-web-design-user-interface-design-photography-thumbnail.png" alt="Dribbble" width="40" heigth="40"/>
 <hr>
 <h3 align="center">
     <p><u> Desista de me fazer desistir. </u></p>
