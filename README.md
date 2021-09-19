@@ -43,17 +43,26 @@ Bem-vindos (a) onde a codificação não tem limites.
 - Estou na área de HTML há 5 meses
 <hr>
 
-### Cursos que fiz em Python:
-### Cursos que fiz sobre Python 📚:
+### Cursos de Python:
 
-- [x] Curso de Python do Gustavo Guanabara no YouTube (foi o meu início)
-- [x] Curso de Python na Udemy (onde eu aprimorei meus conhecimentos)
-- [x] Regex com Python (Udemy)
-- [x] API com Python (YouTube)
-- [x] Web Scraping com Python (YouTube e Udemy)
-- [x] Automação (Youtube)
+- [x] Python do Gustavo Guanabara no YouTube
+- [x] Curso de Python 3 na Udemy
+- [x] Selenium e automacões web
+- [x] API com Python
+- [x] Web Scraping com Python
+- [x] Automação nativa
 - [x] Modularização
-- [x] Banco de dados SQLite3
+- [x] Banco de dados SQL
+
+### Cursos de Java:
+
+- [x] Curso de Java básico
+- [x] Curso de Java médio
+- [x] Curso de Java POO
+
+### Cursos de SQL:
+
+
 
 <hr>
 <h3 align="center">
