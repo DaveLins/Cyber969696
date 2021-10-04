@@ -12,12 +12,8 @@ Bem-vindos (a) onde a codificação não tem limites.
 
 ![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
 
-# Sobre mim:
-- Meu nome: David Oliveira Lins
-- Minha idade: 17 Anos
-- Meu hobby: Programacão, Design (UX-UI), Automacões, Finanças, Astronomia, Leitura, Filmes de tecnologia e séries.
-- Eu curto aprender sobre assuntos que estão em meus hobbys.
 <hr>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,7 +21,8 @@ Bem-vindos (a) onde a codificação não tem limites.
   <img align="center" alt="David-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    <img align="center" alt="David-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-</hr>
+<hr>
+    
 # Descrição do meu objetivo:
 - Atualmente estou buscando oportunidades! Busco sempre estar estudando, desenvolvevendo programas.
 - Meu foco é poder ajudar as pessoas desenvolvendo programas e aplicativos que elas precisem e também a automação de programas.
