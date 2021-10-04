@@ -22,59 +22,20 @@ Bem-vindos (a) onde a codificação não tem limites.
   <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="David-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="David-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+   <img align="center" alt="David-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 <hr>
 
 ### Descrição do meu objetivo:
-- Atualmente estou buscando oportunidades! Busco sempre estar estudando, desenvolvevendo programas
-- Meu foco é poder ajudar as pessoas desenvolvendo programas e aplicativos que elas precisem e também a automação de programas
-- Gosto de estar sempre aprendendo novas coisas
-- Costumo passar o dia todo criando banco de dados
-- Gosto de desenvolver aplicativos nativos em Java
-- Curto automatizar minhas tarefas com o Python
-- Sou fascinado em Design (UX-UI) considero que é minha maior paixão
+- Atualmente estou buscando oportunidades! Busco sempre estar estudando, desenvolvevendo programas.
+- Meu foco é poder ajudar as pessoas desenvolvendo programas e aplicativos que elas precisem e também a automação de programas.
+- Gosto de desenvolver aplicativos nativos em Java.
+- Curto automatizar minhas tarefas com o Python.
+- Sou fascinado em Design (UX-UI) considero que é minha maior paixão.
 <hr>
-
-### Tempo de área:
-- Estou na área de Python há 1 ano e 5 meses
-- Estou na área de Design há 3 anos
-- Estou na área de MySQL há 1 ano
-- Estou na área de Java há 1 ano e 2 meses
-- Estou na área de HTML há 5 meses
+    
 <hr>
-
-### Cursos de Python:
-
-- [x] Python do Gustavo Guanabara no YouTube
-- [x] Curso de Python 3 na Udemy
-- [x] Selenium e automacões web
-- [x] API com Python
-- [x] Web Scraping com Python
-- [x] Automação nativa
-- [x] Modularização
-- [x] Banco de dados SQL
-
-### Cursos de Java:
-
-- [x] Curso de Java básico
-- [x] Curso de Java médio
-- [x] Curso de Java POO
-
-### Cursos de SQL:
-
-- [x] Curso de MySQL básico
-- [x] Curso de SQL médio
-
-### Cursos de HTML:
-
-- [x] Curso de HTML básico
-- [x] Curso de HTML 5 com CSS3
-
-### Cursos de UX Design:
-
-- [x] Curso de UX Design modelos e ferramentas
-- [x] Curso de AdobeXD usabilidade
 
 <hr>
 <h3 align="center">
