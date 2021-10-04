@@ -26,7 +26,6 @@ Bem-vindos (a) onde a codificação não tem limites.
    <img align="center" alt="David-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 <hr>
-
 ### Descrição do meu objetivo:
 - Atualmente estou buscando oportunidades! Busco sempre estar estudando, desenvolvevendo programas.
 - Meu foco é poder ajudar as pessoas desenvolvendo programas e aplicativos que elas precisem e também a automação de programas.
@@ -34,9 +33,6 @@ Bem-vindos (a) onde a codificação não tem limites.
 - Curto automatizar minhas tarefas com o Python.
 - Sou fascinado em Design (UX-UI) considero que é minha maior paixão.
 <hr>
-    
-<hr>
-
 <hr>
 <h3 align="center">
     <p><u> Fale comigo por uma das minhas redes sociais abaixo: </u></p>
