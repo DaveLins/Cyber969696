@@ -25,7 +25,7 @@ Bem-vindos (a) onde a codificação não tem limites.
   <img align="center" alt="David-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    <img align="center" alt="David-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-<hr>
+</hr>
 # Descrição do meu objetivo:
 - Atualmente estou buscando oportunidades! Busco sempre estar estudando, desenvolvevendo programas.
 - Meu foco é poder ajudar as pessoas desenvolvendo programas e aplicativos que elas precisem e também a automação de programas.
