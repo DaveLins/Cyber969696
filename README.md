@@ -33,7 +33,6 @@ Bem-vindos (a) onde a codificação não tem limites.
 - Curto automatizar minhas tarefas com o Python.
 - Sou fascinado em Design (UX-UI) considero que é minha maior paixão.
 <hr>
-<hr>
 <h3 align="center">
     <p><u> Fale comigo por uma das minhas redes sociais abaixo: </u></p>
 </h3>
