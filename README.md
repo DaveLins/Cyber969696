@@ -18,15 +18,16 @@ Bem-vindos (a) onde a codificação não tem limites.
 - Meu hobby: Programacão, Design (UX-UI), Automacões, Finanças, Astronomia, Leitura, Filmes de tecnologia e séries.
 - Eu curto aprender sobre assuntos que estão em meus hobbys.
 <hr>
-
-### Experiência com:
-<a href="https://github.com/cyber969696" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="Github" width="40" heigth="40"/>
-<a href="https://www.oficinadanet.com.br/artigo/2227/mysql_-_o_que_e" target="_blank"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MySQL" width="40" height="40"/>
-<a href="https://www.python.org/" target="_blank"/> <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="40" heigth="40"/>
-<a href="https://pypi.org/project/selenium/" target="_blank"/> <img src="https://icon-library.com/images/selenium-icon/selenium-icon-12.jpg" alt="Selenium" width="40" heigth="40"/>
-<a href="https://www.java.com/pt-BR/download/help/whatis_java.html" target="_blank"/> <img src="https://logospng.org/download/java/logo-java-2048.png" alt="Java" width="40" heigth="40"/>
-<a href="https://www.homehost.com.br/blog/tutoriais/o-que-e-html/" target="_blank"/> <img src="https://image.flaticon.com/icons/png/512/919/919827.png" alt="HTML" width="40" heigth="40"/>
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
 <hr>
 
 ### Descrição do meu objetivo:
