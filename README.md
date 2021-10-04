@@ -4,7 +4,11 @@ Bem-vindos (a) onde a codificação não tem limites.
    </p><hr>
 </h1>
 
-![stats about my repo Cyber969696](https://github-readme-stats.vercel.app/api?username=cyber969696&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
 
