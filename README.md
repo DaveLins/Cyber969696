@@ -12,8 +12,6 @@ Bem-vindos (a) onde a codificação não tem limites.
 
 ![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
     
-![Snake animation](https://github.com/cyber969696/cyber969696/blob/output/github-contribution-grid-snake.svg)
-
 <hr>
     
 <div style="display: inline_block"><br>
