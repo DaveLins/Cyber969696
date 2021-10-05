@@ -45,7 +45,5 @@ Bem-vindos (a) onde a codificação não tem limites.
 <hr>
 <h3 align="center">
     <p><u> Desista de me fazer desistir. </u></p>
+    ![Snake animation](https://github.com/cyber969696/cyber969696/blob/output/github-contribution-grid-snake.svg)
 </h3>
-<div>
-![Snake animation](https://github.com/cyber969696/cyber969696/blob/output/github-contribution-grid-snake.svg)
-</div>
